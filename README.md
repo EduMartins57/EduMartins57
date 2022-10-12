@@ -11,7 +11,7 @@
   <h3>Sobre mim</h3>
   <ul>
     <li>🧑🏻 Sou Eduardo Martins desenvolvedor Front-end em construção.</li>
-    <li>🎓 5º Semestre de TADS - IFSP.</li>
+    <li>🎓 6º Semestre de TADS - IFSP.</li>
     <li>🎥 Gosto de assistir filmes e séries.</li>
   </ul>
 </div>
