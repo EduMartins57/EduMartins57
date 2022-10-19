@@ -1,9 +1,7 @@
 <h2 align="center"> 🙋🏻‍♂️ Olá!! Eu sou Eduardo Martins</h2>
 
 <div align="center">
- 
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduMartins57_icons=true&theme=radical_all_commits=true&count_private=true&locale=pt-BR&custom_title=Eduardo Martins - Estatísticas do GitHub " /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduMartins57&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&locale=pt-BR&custom"/>
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMartins57&layout=compact&langs_count=7&theme=chartreuse-dark&locale=pt-BR"/>
   </div>
